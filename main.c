@@ -6,9 +6,9 @@ void fun4();
 int main(void){
    fun4();
 
+//to jest moje!
 
    printf("szukam konfliktu");
-
 
 
 
