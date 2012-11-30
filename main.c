@@ -8,7 +8,8 @@ int main(void){
    return 0;
 }
 void fun1(){
-
+	int zero = 0;
+	printf("%d\n", zero);
 }
 void fun2(){
 
