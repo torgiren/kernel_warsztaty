@@ -12,7 +12,7 @@ void fun1(){
 	printf("%d\n", zero);
 }
 void fun2(){
-
+  printf("To je funkcja dwa, tego nie pomalujesz...");
 }
 void fun3(){
 
