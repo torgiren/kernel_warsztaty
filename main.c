@@ -11,7 +11,7 @@ void fun1(){
 
 }
 void fun2(){
-
+  printf("To je funkcja dwa, tego nie pomalujesz...");
 }
 void fun3(){
 
