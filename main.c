@@ -3,6 +3,14 @@ void fun1();
 void fun2();
 void fun3();
 void fun4();
+
+//komentarz
+
+void fun5()
+{
+
+}
+
 int main(void){
    fun4();
 
