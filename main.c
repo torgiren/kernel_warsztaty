@@ -26,7 +26,7 @@ void fun3(){
    for(i=0;i<4;i++)printf("hello %d",i+1);
 }
 void fun4(){
-
+printf("zmiana");
 while (1)
 {
 printf("HA HA HA");
