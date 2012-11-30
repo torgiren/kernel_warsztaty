@@ -7,7 +7,7 @@ int main(void){
    fun4();
 
 
-
+   printf("szukam konfliktu");
 
 
 
