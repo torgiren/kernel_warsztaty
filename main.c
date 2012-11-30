@@ -14,7 +14,8 @@ void fun2(){
 
 }
 void fun3(){
-
+   int i;
+   for(i=0;i<4;i++)printf("hello %d",i+1);
 }
 void fun4(){
 
